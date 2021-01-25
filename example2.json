@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2021-01-20",
+    "explanation": "Do magnetic fields always flow along spiral arms?  Our face-on view of the Whirlpool Galaxy (M51) allows a spectacularly clear view of the spiral wave pattern in a disk-shaped galaxy.  When observed with a radio telescope, the magnetic field appears to trace the arms' curvature.  However, with NASA’s flying Stratospheric Observatory for Infrared Astronomy (SOFIA) observatory, the magnetic field at the outer edge of M51's disk appears to weave across the arms instead.  Magnetic fields are inferred by grains of dust aligning in one direction and acting like polaroid glasses on infrared light.  In the featured image, the field orientations determined from this polarized light are algorithmically connected, creating streamlines.  Possibly the gravitational tug of the companion galaxy, at the top of the frame, on the dusty gas of the reddish star-forming regions, visible in the Hubble Space Telescope image, enhances turbulence -- stirring the dust and lines to produce the unexpected field pattern of the outer arms.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2101/M51Bfield_Sofia_2286.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Magnetic Field of the Whirlpool Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/2101/M51Bfield_Sofia_960.jpg"
+  },
+  {
+    "copyright": "Wes Higgins",
+    "date": "2021-01-21",
+    "explanation": "Interstellar dust clouds and glowing nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is centered in this colorful, wide field view, covering an area north of Orion's belt. At a distance of about 1,500 light-years, the bluish reflection nebula is around 5 light-years across. Its tint is due to dust preferentially reflecting the blue light of hot, young stars. Reflection nebula NGC 2071 is just to the left of M78. Flecks of emission from Herbig-Haro objects, energetic jets from stars in the process of formation, stand out against the dark dust lanes. The exposure also brings out the region's fainter, pervasive reddish glow of atomic hydrogen gas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2101/M78wideHiggins.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M78 Wide Field",
+    "url": "https://apod.nasa.gov/apod/image/2101/M78wideHiggins1024.jpg"
+  },
+  {
+    "copyright": "Alvin Wu",
+    "date": "2021-01-22",
+    "explanation": "An expanse of cosmic dust, stars and nebulae along the plane of our Milky Way galaxy form a beautiful ring in this projected all-sky view. The creative panorama covers the entire galaxy visible from planet Earth, an ambitious 360 degree mosaic that took two years to complete. Northern hemisphere sites in western China and southern hemisphere sites in New Zealand were used to collect the image data. Like a glowing jewel set in the milky ring, the bulge of the galactic center, is at the very top. Bright planet Jupiter is the beacon just above the central bulge and left of red giant star Antares. Along the plane and almost 180 degrees from the galactic center, at the bottom of the ring is the area around Orion, denizen of the northern hemisphere's evening winter skies. In this projection the ring of the Milky Way encompasses two notable galaxies in southern skies, the large and small Magellanic clouds.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2101/MilkyWayRingAlvinWu.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Milky Ring",
+    "url": "https://apod.nasa.gov/apod/image/2101/MilkyWayRingAlvinWu1024.jpg"
+  },
+  {
+    "date": "2021-01-23",
+    "explanation": "Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy's star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2101/Chandrafirstlight_0.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Recycling Cassiopeia A",
+    "url": "https://apod.nasa.gov/apod/image/2101/Chandrafirstlight_0_1024.jpg"
+  },
+  {
+    "copyright": "Roberto Colombari",
+    "date": "2021-01-24",
+    "explanation": "It is one of the more massive galaxies known. A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This sharp view of the gorgeous island universe shows off a striking yellow nucleus and galactic disk. Dust lanes, small, pink star-forming regions, and young blue star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way. The featured composite image merges exposures from the orbiting 2.4-meter Hubble Space Telescope and the ground-based 8.2-meter Subaru Telescope.  X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2101/ngc2841_hstColombari_2896.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Massive Nearby Spiral Galaxy NGC 2841",
+    "url": "https://apod.nasa.gov/apod/image/2101/ngc2841_hstColombari_960.jpg"
+  }
+]
