@@ -21,7 +21,7 @@ class Api {
   /**
    * @param {String} [body]
    */
-  call(body) {
+  fetch(body) {
     this._api.send(body);
   }
 }

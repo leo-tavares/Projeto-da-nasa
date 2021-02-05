@@ -1,4 +1,5 @@
 import ApodModel from "../model/apod.js";
+import { img, description } from "../view/card/index.js";
 
 class ApodController {
   constructor(api) {
@@ -17,9 +18,12 @@ class ApodController {
   fetchNewData() {
     this.api.addEventListener("load", () => {
       const data = JSON.parse(this.api.getResponse());
+      console.log(data);
+      img.src = data.url;
+      description.textContent = data.explanation
       this.updateModel(data);
     });
-    this.api.call();
+    this.api.fetch();
   }
 }
 
