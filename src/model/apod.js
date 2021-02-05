@@ -13,15 +13,15 @@
 
 class Apod {
   constructor(data) {
-    this.apod = data || {};
+    this._apod = data || {};
   }
 
   updateData(data) {
-    this.apod = data;
+    this._apod = data;
   }
 
-  data() {
-    return this.apod;
+  getData() {
+    return this._apod;
   }
 }
 

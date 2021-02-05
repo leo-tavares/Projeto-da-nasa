@@ -1,13 +1,11 @@
 import Api from "./utils/api.js";
 import CardView, { img, description } from "./view/card/index.js";
 import ApodController from "./controller/ApodController.js";
-import ApodModel from "./model/apod.js"
 
 const api = new Api("GET");
 
-const apodModel = new ApodModel({})
-const apodController = new ApodController(api, apodModel);
-apodController.fetchNewData()
+const apodController = new ApodController(api);
+apodController.fetchNewData();
 
 img.src =
   "https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_960.jpg";

@@ -1,10 +1,12 @@
+import ApodModel from "../model/apod.js";
+
 class ApodController {
-  constructor(api, model) {
+  constructor(api) {
     this.api = api;
-    this.model = model;
+    this.model = new ApodModel();
   }
 
-  get ApodModel() {
+  getApodModel() {
     return this.model;
   }
 
@@ -13,12 +15,10 @@ class ApodController {
   }
 
   fetchNewData() {
-    let data;
-    this.api.addEventListener("load", function() {
-      data = JSON.parse(this.response);
+    this.api.addEventListener("load", () => {
+      const data = JSON.parse(this.api.getResponse());
+      this.updateModel(data);
     });
-    this.updateModel(data)
-
     this.api.call();
   }
 }
